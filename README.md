@@ -1,1 +1,1 @@
-# 251
+# CS 251 Projects
