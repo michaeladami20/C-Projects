@@ -1,1 +1,1 @@
-# Entire collection of C++ projects I have done.
+# Entire collection of C projects I have done.
