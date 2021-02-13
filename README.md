@@ -1,1 +1,1 @@
-# CS 251 Projects
+# Entire collection of C++ projects I have done.
